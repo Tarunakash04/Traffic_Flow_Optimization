@@ -1,0 +1,95 @@
+
+ Traffic Flow Optimizer API - Postman Requests
+
+ 1. Check API Status
+- Method: GET
+- URL: http://localhost:5000/
+
+
+
+ 2. Toggle Festival Mode
+- Method: POST
+- URL: http://localhost:5000/monitor/toggle_festival
+- Body (JSON):
+```json
+{
+  "festival_mode": true
+}
+```
+- To Disable Festival Mode:
+```json
+{
+  "festival_mode": false
+}
+```
+
+
+
+ 3. Get Traffic Data
+- Method: GET
+- URL: http://localhost:5000/monitor/traffic
+
+
+
+ 4. Get Emergency Data
+- Method: GET
+- URL: http://localhost:5000/monitor/emergency
+
+
+
+ 5. Send Traffic Data
+- Method: POST
+- URL: http://localhost:5000/traffic
+- Body (JSON):
+```json
+{
+  "vehicle_data": [
+    {
+      "fastag_id": "FASTAG101",
+      "vehicle_type": "car",
+      "lane": "Lane_1",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG102",
+      "vehicle_type": "truck",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:31:00"
+    }
+  ]
+}
+```
+
+
+
+ 6. Report Accident
+- Method: POST
+- URL: http://localhost:5000/accident/report
+- Body (JSON):
+```json
+{
+  "lane": "Lane_3",
+  "severity": "high",
+  "description": "Major collision"
+}
+```
+
+
+
+ 7. Activate Green Corridor
+- Method: POST
+- URL: http://localhost:5000/green_corridor/activate
+- Body (JSON):
+```json
+{
+  "lane": "Lane_1",
+  "vehicle_id": "AMB123"
+}
+```
+
+
+
+ 8. Deactivate Green Corridor
+- Method: POST
+- URL: http://localhost:5000/green_corridor/deactivate
+
