@@ -1,0 +1,9 @@
+{
+    "vehicle_counts": {
+        "Lane_1": 120,
+        "Lane_2": 75,
+        "Lane_3": 35,
+        "Lane_4": 10
+    },
+    "timestamp": "2025-03-19T22:30:00"
+}
