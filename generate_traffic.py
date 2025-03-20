@@ -16,19 +16,25 @@ def generate_vehicle_data(lane, vehicle_count):
     return data
 
 def generate_traffic_data():
+    vehicle_counts = {}
     data = {
-        "vehicle_data": []
+        "vehicle_data": [],
+        "vehicle_counts": {}
     }
 
     lane_config = {
-        "Lane_1": 120,
+        "Lane_1": 25,
         "Lane_2": 75,
-        "Lane_3": 35,
+        "Lane_3": 120,
         "Lane_4": 10
     }
 
     for lane, count in lane_config.items():
-        data["vehicle_data"].extend(generate_vehicle_data(lane, count))
+        vehicle_data = generate_vehicle_data(lane, count)
+        data["vehicle_data"].extend(vehicle_data)
+        vehicle_counts[lane] = len(vehicle_data)
+
+    data["vehicle_counts"] = vehicle_counts
 
     with open('traffic_data.json', 'w') as f:
         json.dump(data, f, indent=2)
