@@ -1,80 +1,26 @@
 {
   "vehicle_data": [
     {
-      "fastag_id": "FASTAG542",
-      "vehicle_type": "car",
-      "lane": "Lane_1",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG577",
-      "vehicle_type": "bike",
-      "lane": "Lane_1",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG935",
-      "vehicle_type": "bike",
-      "lane": "Lane_1",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG545",
+      "fastag_id": "FASTAG065",
       "vehicle_type": "bus",
       "lane": "Lane_1",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG253",
-      "vehicle_type": "car",
-      "lane": "Lane_1",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG225",
-      "vehicle_type": "car",
-      "lane": "Lane_1",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG105",
+      "fastag_id": "FASTAG753",
       "vehicle_type": "truck",
       "lane": "Lane_1",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG535",
+      "fastag_id": "FASTAG029",
       "vehicle_type": "truck",
       "lane": "Lane_1",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG468",
-      "vehicle_type": "truck",
-      "lane": "Lane_1",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG580",
-      "vehicle_type": "car",
-      "lane": "Lane_1",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG518",
-      "vehicle_type": "bus",
-      "lane": "Lane_1",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG761",
+      "fastag_id": "FASTAG738",
       "vehicle_type": "bike",
-      "lane": "Lane_1",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG640",
-      "vehicle_type": "car",
       "lane": "Lane_1",
       "timestamp": "2025-03-19T22:30:00"
     },
@@ -85,140 +31,458 @@
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG309",
+      "fastag_id": "FASTAG809",
       "vehicle_type": "truck",
       "lane": "Lane_1",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG668",
+      "fastag_id": "FASTAG210",
       "vehicle_type": "bus",
       "lane": "Lane_1",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG640",
-      "vehicle_type": "bike",
-      "lane": "Lane_1",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG861",
-      "vehicle_type": "truck",
-      "lane": "Lane_1",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG922",
+      "fastag_id": "FASTAG772",
       "vehicle_type": "bus",
       "lane": "Lane_1",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG687",
+      "fastag_id": "FASTAG539",
       "vehicle_type": "bus",
       "lane": "Lane_1",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG988",
+      "fastag_id": "FASTAG893",
       "vehicle_type": "bike",
       "lane": "Lane_1",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG248",
-      "vehicle_type": "truck",
-      "lane": "Lane_1",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG005",
-      "vehicle_type": "bike",
-      "lane": "Lane_1",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG070",
-      "vehicle_type": "bike",
-      "lane": "Lane_1",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG301",
+      "fastag_id": "FASTAG564",
       "vehicle_type": "car",
       "lane": "Lane_1",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG141",
+      "fastag_id": "FASTAG995",
       "vehicle_type": "bike",
-      "lane": "Lane_2",
+      "lane": "Lane_1",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG062",
+      "fastag_id": "FASTAG195",
+      "vehicle_type": "truck",
+      "lane": "Lane_1",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG112",
+      "vehicle_type": "truck",
+      "lane": "Lane_1",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG433",
+      "vehicle_type": "car",
+      "lane": "Lane_1",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG327",
+      "vehicle_type": "bus",
+      "lane": "Lane_1",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG802",
+      "vehicle_type": "car",
+      "lane": "Lane_1",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG199",
+      "vehicle_type": "car",
+      "lane": "Lane_1",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG391",
+      "vehicle_type": "truck",
+      "lane": "Lane_1",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG264",
+      "vehicle_type": "bus",
+      "lane": "Lane_1",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG292",
+      "vehicle_type": "truck",
+      "lane": "Lane_1",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG002",
+      "vehicle_type": "bus",
+      "lane": "Lane_1",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG797",
+      "vehicle_type": "bus",
+      "lane": "Lane_1",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG685",
+      "vehicle_type": "truck",
+      "lane": "Lane_1",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG799",
+      "vehicle_type": "car",
+      "lane": "Lane_1",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG360",
       "vehicle_type": "bus",
       "lane": "Lane_2",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG996",
-      "vehicle_type": "bike",
+      "fastag_id": "FASTAG476",
+      "vehicle_type": "car",
       "lane": "Lane_2",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG901",
-      "vehicle_type": "truck",
-      "lane": "Lane_2",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG077",
-      "vehicle_type": "bike",
-      "lane": "Lane_2",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG373",
-      "vehicle_type": "truck",
-      "lane": "Lane_2",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG734",
-      "vehicle_type": "bike",
-      "lane": "Lane_2",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG290",
-      "vehicle_type": "bike",
-      "lane": "Lane_2",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG769",
-      "vehicle_type": "truck",
-      "lane": "Lane_2",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG833",
-      "vehicle_type": "truck",
-      "lane": "Lane_2",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG326",
+      "fastag_id": "FASTAG623",
       "vehicle_type": "bus",
       "lane": "Lane_2",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG287",
+      "fastag_id": "FASTAG406",
+      "vehicle_type": "truck",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG861",
       "vehicle_type": "bus",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG738",
+      "vehicle_type": "car",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG067",
+      "vehicle_type": "truck",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG029",
+      "vehicle_type": "bike",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG739",
+      "vehicle_type": "car",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG750",
+      "vehicle_type": "bike",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG781",
+      "vehicle_type": "bus",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG777",
+      "vehicle_type": "truck",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG008",
+      "vehicle_type": "truck",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG617",
+      "vehicle_type": "bike",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG730",
+      "vehicle_type": "car",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG207",
+      "vehicle_type": "car",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG367",
+      "vehicle_type": "truck",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG346",
+      "vehicle_type": "bike",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG113",
+      "vehicle_type": "bike",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG559",
+      "vehicle_type": "bus",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG269",
+      "vehicle_type": "bike",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG959",
+      "vehicle_type": "bus",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG590",
+      "vehicle_type": "bus",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG316",
+      "vehicle_type": "truck",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG784",
+      "vehicle_type": "bus",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG616",
+      "vehicle_type": "bike",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG362",
+      "vehicle_type": "bike",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG601",
+      "vehicle_type": "bus",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG072",
+      "vehicle_type": "truck",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG312",
+      "vehicle_type": "car",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG108",
+      "vehicle_type": "car",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG967",
+      "vehicle_type": "car",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG655",
+      "vehicle_type": "bike",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG882",
+      "vehicle_type": "bike",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG788",
+      "vehicle_type": "truck",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG512",
+      "vehicle_type": "truck",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG011",
+      "vehicle_type": "bus",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG876",
+      "vehicle_type": "bike",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG857",
+      "vehicle_type": "truck",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG755",
+      "vehicle_type": "truck",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG411",
+      "vehicle_type": "truck",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG600",
+      "vehicle_type": "car",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG567",
+      "vehicle_type": "car",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG213",
+      "vehicle_type": "car",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG434",
+      "vehicle_type": "bus",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG725",
+      "vehicle_type": "bike",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG261",
+      "vehicle_type": "truck",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG130",
+      "vehicle_type": "bus",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG831",
+      "vehicle_type": "car",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG597",
+      "vehicle_type": "bus",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG982",
+      "vehicle_type": "car",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG582",
+      "vehicle_type": "bus",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG341",
+      "vehicle_type": "car",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG059",
+      "vehicle_type": "truck",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG865",
+      "vehicle_type": "truck",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG095",
+      "vehicle_type": "truck",
       "lane": "Lane_2",
       "timestamp": "2025-03-19T22:30:00"
     },
@@ -229,608 +493,146 @@
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG438",
-      "vehicle_type": "bike",
-      "lane": "Lane_2",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG682",
-      "vehicle_type": "bike",
-      "lane": "Lane_2",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
       "fastag_id": "FASTAG036",
-      "vehicle_type": "truck",
-      "lane": "Lane_2",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG384",
-      "vehicle_type": "truck",
-      "lane": "Lane_2",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG640",
       "vehicle_type": "car",
       "lane": "Lane_2",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG782",
-      "vehicle_type": "bus",
-      "lane": "Lane_2",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG954",
-      "vehicle_type": "car",
-      "lane": "Lane_2",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG668",
-      "vehicle_type": "bus",
-      "lane": "Lane_2",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG099",
-      "vehicle_type": "car",
-      "lane": "Lane_2",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG480",
-      "vehicle_type": "bus",
-      "lane": "Lane_2",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG123",
-      "vehicle_type": "car",
-      "lane": "Lane_2",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG391",
-      "vehicle_type": "truck",
-      "lane": "Lane_2",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG085",
-      "vehicle_type": "bus",
-      "lane": "Lane_2",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG048",
+      "fastag_id": "FASTAG557",
       "vehicle_type": "bike",
       "lane": "Lane_2",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG363",
+      "fastag_id": "FASTAG842",
       "vehicle_type": "car",
       "lane": "Lane_2",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG748",
+      "fastag_id": "FASTAG913",
+      "vehicle_type": "bike",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG592",
+      "vehicle_type": "truck",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG111",
+      "vehicle_type": "truck",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG920",
       "vehicle_type": "car",
       "lane": "Lane_2",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG830",
+      "fastag_id": "FASTAG454",
+      "vehicle_type": "car",
+      "lane": "Lane_2",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG649",
       "vehicle_type": "bike",
       "lane": "Lane_2",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG716",
-      "vehicle_type": "bus",
+      "fastag_id": "FASTAG032",
+      "vehicle_type": "truck",
       "lane": "Lane_2",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG439",
-      "vehicle_type": "bike",
+      "fastag_id": "FASTAG404",
+      "vehicle_type": "car",
       "lane": "Lane_2",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG303",
+      "fastag_id": "FASTAG762",
       "vehicle_type": "bus",
       "lane": "Lane_2",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
       "fastag_id": "FASTAG823",
-      "vehicle_type": "truck",
-      "lane": "Lane_2",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG189",
       "vehicle_type": "bike",
       "lane": "Lane_2",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG640",
+      "fastag_id": "FASTAG699",
       "vehicle_type": "bike",
       "lane": "Lane_2",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG754",
-      "vehicle_type": "truck",
+      "fastag_id": "FASTAG420",
+      "vehicle_type": "car",
       "lane": "Lane_2",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG504",
-      "vehicle_type": "truck",
-      "lane": "Lane_2",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG700",
+      "fastag_id": "FASTAG684",
       "vehicle_type": "bus",
       "lane": "Lane_2",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG895",
-      "vehicle_type": "truck",
-      "lane": "Lane_2",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG366",
-      "vehicle_type": "bus",
-      "lane": "Lane_2",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG367",
+      "fastag_id": "FASTAG343",
       "vehicle_type": "bike",
       "lane": "Lane_2",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG282",
-      "vehicle_type": "car",
-      "lane": "Lane_2",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG546",
+      "fastag_id": "FASTAG536",
       "vehicle_type": "bus",
       "lane": "Lane_2",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG965",
-      "vehicle_type": "bike",
-      "lane": "Lane_2",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG219",
-      "vehicle_type": "car",
-      "lane": "Lane_2",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG962",
-      "vehicle_type": "bus",
-      "lane": "Lane_2",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG991",
-      "vehicle_type": "bus",
-      "lane": "Lane_2",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG790",
-      "vehicle_type": "bike",
-      "lane": "Lane_2",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG171",
+      "fastag_id": "FASTAG390",
       "vehicle_type": "truck",
-      "lane": "Lane_2",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG747",
-      "vehicle_type": "truck",
-      "lane": "Lane_2",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG870",
-      "vehicle_type": "bus",
-      "lane": "Lane_2",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG587",
-      "vehicle_type": "bus",
-      "lane": "Lane_2",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG256",
-      "vehicle_type": "truck",
-      "lane": "Lane_2",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG534",
-      "vehicle_type": "car",
-      "lane": "Lane_2",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG909",
-      "vehicle_type": "bike",
-      "lane": "Lane_2",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG002",
-      "vehicle_type": "bus",
-      "lane": "Lane_2",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG395",
-      "vehicle_type": "car",
-      "lane": "Lane_2",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG258",
-      "vehicle_type": "truck",
-      "lane": "Lane_2",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG500",
-      "vehicle_type": "truck",
-      "lane": "Lane_2",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG586",
-      "vehicle_type": "truck",
-      "lane": "Lane_2",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG198",
-      "vehicle_type": "car",
-      "lane": "Lane_2",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG910",
-      "vehicle_type": "bus",
-      "lane": "Lane_2",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG123",
-      "vehicle_type": "car",
-      "lane": "Lane_2",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG036",
-      "vehicle_type": "car",
-      "lane": "Lane_2",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG564",
-      "vehicle_type": "bike",
-      "lane": "Lane_2",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG733",
-      "vehicle_type": "car",
-      "lane": "Lane_2",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG897",
-      "vehicle_type": "bike",
-      "lane": "Lane_2",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG576",
-      "vehicle_type": "truck",
-      "lane": "Lane_2",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG131",
-      "vehicle_type": "truck",
-      "lane": "Lane_2",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG041",
-      "vehicle_type": "bus",
-      "lane": "Lane_2",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG646",
-      "vehicle_type": "car",
-      "lane": "Lane_2",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG644",
-      "vehicle_type": "truck",
-      "lane": "Lane_2",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG885",
-      "vehicle_type": "bus",
-      "lane": "Lane_2",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG464",
-      "vehicle_type": "bike",
-      "lane": "Lane_2",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG389",
-      "vehicle_type": "bus",
       "lane": "Lane_3",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG856",
-      "vehicle_type": "car",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG064",
-      "vehicle_type": "car",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG632",
-      "vehicle_type": "car",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG902",
-      "vehicle_type": "car",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG146",
-      "vehicle_type": "car",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG793",
+      "fastag_id": "FASTAG998",
       "vehicle_type": "bike",
       "lane": "Lane_3",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG541",
-      "vehicle_type": "car",
+      "fastag_id": "FASTAG038",
+      "vehicle_type": "truck",
       "lane": "Lane_3",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG969",
+      "fastag_id": "FASTAG601",
       "vehicle_type": "bus",
       "lane": "Lane_3",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG099",
-      "vehicle_type": "truck",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG726",
+      "fastag_id": "FASTAG881",
       "vehicle_type": "car",
       "lane": "Lane_3",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG477",
+      "fastag_id": "FASTAG626",
       "vehicle_type": "car",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG002",
-      "vehicle_type": "truck",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG123",
-      "vehicle_type": "bus",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG912",
-      "vehicle_type": "car",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG830",
-      "vehicle_type": "car",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG798",
-      "vehicle_type": "truck",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG029",
-      "vehicle_type": "car",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG116",
-      "vehicle_type": "truck",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG600",
-      "vehicle_type": "truck",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG039",
-      "vehicle_type": "car",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG651",
-      "vehicle_type": "bus",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG295",
-      "vehicle_type": "bike",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG510",
-      "vehicle_type": "bike",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG260",
-      "vehicle_type": "bike",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG952",
-      "vehicle_type": "truck",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG252",
-      "vehicle_type": "car",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG902",
-      "vehicle_type": "bus",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG822",
-      "vehicle_type": "bike",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG489",
-      "vehicle_type": "bus",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG785",
-      "vehicle_type": "car",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG463",
-      "vehicle_type": "car",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG252",
-      "vehicle_type": "bike",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG719",
-      "vehicle_type": "truck",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG327",
-      "vehicle_type": "bike",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG131",
-      "vehicle_type": "truck",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG106",
-      "vehicle_type": "truck",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG381",
-      "vehicle_type": "car",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG962",
-      "vehicle_type": "bus",
       "lane": "Lane_3",
       "timestamp": "2025-03-19T22:30:00"
     },
@@ -841,229 +643,331 @@
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG542",
-      "vehicle_type": "bus",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG652",
-      "vehicle_type": "bus",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG846",
-      "vehicle_type": "bus",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG221",
-      "vehicle_type": "car",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG905",
+      "fastag_id": "FASTAG800",
       "vehicle_type": "bike",
       "lane": "Lane_3",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG979",
-      "vehicle_type": "truck",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG719",
-      "vehicle_type": "car",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG196",
-      "vehicle_type": "truck",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG488",
-      "vehicle_type": "bus",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG211",
-      "vehicle_type": "truck",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG317",
-      "vehicle_type": "car",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG102",
+      "fastag_id": "FASTAG222",
       "vehicle_type": "bike",
       "lane": "Lane_3",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG666",
+      "fastag_id": "FASTAG104",
+      "vehicle_type": "bike",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG705",
       "vehicle_type": "car",
       "lane": "Lane_3",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG676",
-      "vehicle_type": "bike",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG188",
+      "fastag_id": "FASTAG128",
       "vehicle_type": "bus",
       "lane": "Lane_3",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG961",
-      "vehicle_type": "bike",
+      "fastag_id": "FASTAG962",
+      "vehicle_type": "car",
       "lane": "Lane_3",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG931",
+      "fastag_id": "FASTAG106",
       "vehicle_type": "truck",
       "lane": "Lane_3",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG478",
-      "vehicle_type": "car",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG341",
-      "vehicle_type": "bus",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG273",
+      "fastag_id": "FASTAG601",
       "vehicle_type": "bike",
       "lane": "Lane_3",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG989",
+      "fastag_id": "FASTAG229",
+      "vehicle_type": "car",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG497",
+      "vehicle_type": "car",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG657",
+      "vehicle_type": "truck",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG150",
       "vehicle_type": "bus",
       "lane": "Lane_3",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG896",
+      "fastag_id": "FASTAG849",
+      "vehicle_type": "car",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG407",
+      "vehicle_type": "truck",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG479",
+      "vehicle_type": "truck",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG079",
       "vehicle_type": "bike",
       "lane": "Lane_3",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG261",
+      "fastag_id": "FASTAG025",
       "vehicle_type": "car",
       "lane": "Lane_3",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG196",
+      "fastag_id": "FASTAG733",
       "vehicle_type": "bus",
       "lane": "Lane_3",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG756",
+      "fastag_id": "FASTAG775",
       "vehicle_type": "bus",
       "lane": "Lane_3",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG641",
+      "fastag_id": "FASTAG343",
       "vehicle_type": "truck",
       "lane": "Lane_3",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG435",
+      "fastag_id": "FASTAG105",
+      "vehicle_type": "car",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG202",
+      "vehicle_type": "bus",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG128",
+      "vehicle_type": "bus",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG043",
+      "vehicle_type": "bus",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG256",
       "vehicle_type": "bike",
       "lane": "Lane_3",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG194",
-      "vehicle_type": "truck",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG364",
-      "vehicle_type": "car",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG135",
-      "vehicle_type": "car",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG209",
-      "vehicle_type": "car",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG973",
+      "fastag_id": "FASTAG296",
       "vehicle_type": "bus",
       "lane": "Lane_3",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG491",
+      "fastag_id": "FASTAG933",
       "vehicle_type": "bus",
       "lane": "Lane_3",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG566",
-      "vehicle_type": "truck",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG835",
-      "vehicle_type": "truck",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG691",
+      "fastag_id": "FASTAG332",
       "vehicle_type": "bike",
       "lane": "Lane_3",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG239",
+      "fastag_id": "FASTAG344",
       "vehicle_type": "bus",
       "lane": "Lane_3",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG050",
+      "fastag_id": "FASTAG801",
+      "vehicle_type": "bike",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG619",
+      "vehicle_type": "truck",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG727",
+      "vehicle_type": "car",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG919",
+      "vehicle_type": "bus",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG492",
+      "vehicle_type": "bike",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG864",
+      "vehicle_type": "car",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG450",
+      "vehicle_type": "bus",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG633",
+      "vehicle_type": "bus",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG069",
+      "vehicle_type": "truck",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG709",
+      "vehicle_type": "truck",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG245",
+      "vehicle_type": "bike",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG357",
+      "vehicle_type": "car",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG302",
+      "vehicle_type": "car",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG771",
+      "vehicle_type": "bike",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG794",
+      "vehicle_type": "bus",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG549",
+      "vehicle_type": "bus",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG601",
+      "vehicle_type": "bike",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG409",
+      "vehicle_type": "car",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG976",
+      "vehicle_type": "bike",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG561",
+      "vehicle_type": "bike",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG346",
+      "vehicle_type": "bike",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG854",
+      "vehicle_type": "bike",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG692",
+      "vehicle_type": "truck",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG771",
+      "vehicle_type": "bus",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG289",
+      "vehicle_type": "bus",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG787",
       "vehicle_type": "bus",
       "lane": "Lane_3",
       "timestamp": "2025-03-19T22:30:00"
@@ -1075,308 +979,404 @@
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG730",
-      "vehicle_type": "bus",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG744",
-      "vehicle_type": "bus",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG115",
-      "vehicle_type": "car",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG163",
-      "vehicle_type": "bus",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG688",
-      "vehicle_type": "truck",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG658",
-      "vehicle_type": "bus",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG904",
-      "vehicle_type": "bus",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG484",
-      "vehicle_type": "bus",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG771",
-      "vehicle_type": "car",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG437",
+      "fastag_id": "FASTAG783",
       "vehicle_type": "bike",
       "lane": "Lane_3",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG442",
-      "vehicle_type": "truck",
+      "fastag_id": "FASTAG861",
+      "vehicle_type": "bike",
       "lane": "Lane_3",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG262",
-      "vehicle_type": "car",
+      "fastag_id": "FASTAG655",
+      "vehicle_type": "bike",
       "lane": "Lane_3",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG272",
-      "vehicle_type": "car",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG080",
+      "fastag_id": "FASTAG899",
       "vehicle_type": "bus",
       "lane": "Lane_3",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG602",
+      "fastag_id": "FASTAG538",
       "vehicle_type": "truck",
       "lane": "Lane_3",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG439",
-      "vehicle_type": "truck",
+      "fastag_id": "FASTAG766",
+      "vehicle_type": "bus",
       "lane": "Lane_3",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG625",
+      "fastag_id": "FASTAG418",
       "vehicle_type": "bike",
       "lane": "Lane_3",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG250",
+      "fastag_id": "FASTAG844",
+      "vehicle_type": "car",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG139",
+      "vehicle_type": "truck",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG178",
+      "vehicle_type": "bus",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG772",
+      "vehicle_type": "car",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG539",
       "vehicle_type": "bike",
       "lane": "Lane_3",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG589",
+      "fastag_id": "FASTAG366",
+      "vehicle_type": "bike",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG008",
+      "vehicle_type": "car",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG104",
+      "vehicle_type": "bike",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG335",
+      "vehicle_type": "bus",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG225",
+      "vehicle_type": "bus",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG860",
+      "vehicle_type": "car",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG322",
       "vehicle_type": "truck",
       "lane": "Lane_3",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG903",
+      "fastag_id": "FASTAG778",
+      "vehicle_type": "bus",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG921",
       "vehicle_type": "truck",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG467",
+      "vehicle_type": "bike",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG191",
+      "vehicle_type": "car",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG591",
+      "vehicle_type": "car",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG854",
+      "vehicle_type": "truck",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG211",
+      "vehicle_type": "bus",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG402",
+      "vehicle_type": "truck",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG111",
+      "vehicle_type": "bike",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG413",
+      "vehicle_type": "car",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG525",
+      "vehicle_type": "truck",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG489",
+      "vehicle_type": "car",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG693",
+      "vehicle_type": "bus",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG138",
+      "vehicle_type": "car",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG789",
+      "vehicle_type": "bike",
       "lane": "Lane_3",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
       "fastag_id": "FASTAG182",
-      "vehicle_type": "car",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG411",
-      "vehicle_type": "bike",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG240",
       "vehicle_type": "truck",
       "lane": "Lane_3",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG241",
+      "fastag_id": "FASTAG789",
       "vehicle_type": "car",
       "lane": "Lane_3",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG485",
-      "vehicle_type": "bike",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG557",
-      "vehicle_type": "bike",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG266",
-      "vehicle_type": "car",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG157",
-      "vehicle_type": "bus",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG912",
-      "vehicle_type": "bike",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG748",
+      "fastag_id": "FASTAG316",
       "vehicle_type": "truck",
       "lane": "Lane_3",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG536",
-      "vehicle_type": "bike",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG002",
-      "vehicle_type": "bike",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG526",
-      "vehicle_type": "car",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG196",
-      "vehicle_type": "bike",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG232",
-      "vehicle_type": "car",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG841",
+      "fastag_id": "FASTAG271",
       "vehicle_type": "bus",
       "lane": "Lane_3",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG807",
-      "vehicle_type": "car",
-      "lane": "Lane_3",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG494",
+      "fastag_id": "FASTAG443",
       "vehicle_type": "bus",
       "lane": "Lane_3",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG061",
+      "fastag_id": "FASTAG961",
+      "vehicle_type": "truck",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG370",
+      "vehicle_type": "bike",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG355",
+      "vehicle_type": "bus",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG130",
       "vehicle_type": "car",
       "lane": "Lane_3",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG981",
+      "fastag_id": "FASTAG236",
+      "vehicle_type": "car",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG546",
       "vehicle_type": "bike",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG999",
+      "vehicle_type": "truck",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG994",
+      "vehicle_type": "truck",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG114",
+      "vehicle_type": "truck",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG200",
+      "vehicle_type": "bus",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG655",
+      "vehicle_type": "truck",
       "lane": "Lane_3",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
       "fastag_id": "FASTAG595",
-      "vehicle_type": "car",
+      "vehicle_type": "truck",
       "lane": "Lane_3",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG420",
-      "vehicle_type": "car",
-      "lane": "Lane_4",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG979",
-      "vehicle_type": "bus",
-      "lane": "Lane_4",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG989",
-      "vehicle_type": "bus",
-      "lane": "Lane_4",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG725",
-      "vehicle_type": "truck",
-      "lane": "Lane_4",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG712",
-      "vehicle_type": "car",
-      "lane": "Lane_4",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG768",
+      "fastag_id": "FASTAG472",
       "vehicle_type": "bike",
-      "lane": "Lane_4",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG758",
+      "vehicle_type": "bike",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG243",
+      "vehicle_type": "truck",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG830",
+      "vehicle_type": "truck",
+      "lane": "Lane_3",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
       "fastag_id": "FASTAG642",
       "vehicle_type": "truck",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG722",
+      "vehicle_type": "car",
+      "lane": "Lane_3",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG572",
+      "vehicle_type": "bus",
       "lane": "Lane_4",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG521",
-      "vehicle_type": "truck",
-      "lane": "Lane_4",
-      "timestamp": "2025-03-19T22:30:00"
-    },
-    {
-      "fastag_id": "FASTAG319",
+      "fastag_id": "FASTAG752",
       "vehicle_type": "car",
       "lane": "Lane_4",
       "timestamp": "2025-03-19T22:30:00"
     },
     {
-      "fastag_id": "FASTAG938",
+      "fastag_id": "FASTAG398",
+      "vehicle_type": "bike",
+      "lane": "Lane_4",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG578",
       "vehicle_type": "bus",
+      "lane": "Lane_4",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG296",
+      "vehicle_type": "bike",
+      "lane": "Lane_4",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG383",
+      "vehicle_type": "bike",
+      "lane": "Lane_4",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG804",
+      "vehicle_type": "car",
+      "lane": "Lane_4",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG586",
+      "vehicle_type": "bike",
+      "lane": "Lane_4",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG784",
+      "vehicle_type": "bike",
+      "lane": "Lane_4",
+      "timestamp": "2025-03-19T22:30:00"
+    },
+    {
+      "fastag_id": "FASTAG168",
+      "vehicle_type": "bike",
       "lane": "Lane_4",
       "timestamp": "2025-03-19T22:30:00"
     }

@@ -1,5 +1,4 @@
-import os
-from flask import Flask
+from flask import Flask, render_template
 from routes.traffic_routes import traffic_bp
 from routes.emergency_routes import emergency_bp
 from routes.monitor_routes import monitor_bp
@@ -21,9 +20,10 @@ app.register_blueprint(green_corridor_bp, url_prefix='/green_corridor')
 
 setup_logging()
 
+# Updated Home Route to Render UI
 @app.route('/')
 def home():
-    return "Traffic Flow Optimizer API is running!"
+    return render_template('index.html')
 
 if __name__ == '__main__':
     app.run(host=config.HOST, port=config.PORT, debug=config.DEBUG)

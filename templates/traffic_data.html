@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="/static/style.css">
+  <title>Traffic Data</title>
+</head>
+<body>
+  <h1>Traffic Data Overview</h1>
+  {% if data and data.vehicle_counts %}
+  <table border="1">
+    <tr>
+      <th>Lane</th>
+      <th>Vehicle Count</th>
+      <th>Green Time (seconds)</th>
+    </tr>
+    {% for lane, count in data.vehicle_counts.items() %}
+    <tr>
+      <td>{{ lane }}</td>
+      <td>{{ count }}</td>
+      <td>{{ data.green_times[lane] if lane in data.green_times else 'N/A' }}</td>
+    </tr>
+    {% endfor %}
+  </table>
+  {% else %}
+  <p>No traffic data available.</p>
+  {% endif %}
+  <a href="/">Go Back</a>
+</body>
+</html>

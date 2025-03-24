@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="/static/style.css">
+  <title>Emergency Data</title>
+</head>
+<body>
+  <h1>Emergency Vehicle Queue</h1>
+  {% if data %}
+  <ul>
+    {% for emergency in data %}
+    <li>Vehicle ID: {{ emergency.vehicle_id }} - Priority: {{ emergency.priority }}</li>
+    {% endfor %}
+  </ul>  
+  {% else %}
+    <p>No emergency data available.</p>
+  {% endif %}
+  <a href="/">Go Back</a>
+</body>
+</html>

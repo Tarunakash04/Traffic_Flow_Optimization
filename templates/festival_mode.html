@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="/static/style.css">
+  <title>Festival Mode</title>
+</head>
+<body>
+  <h1>Festival Mode Settings</h1>
+  <p>Festival Mode is currently: <b>{{ 'Enabled' if festival_mode else 'Disabled' }}</b></p>
+  <button onclick="toggleFestival(true)">Enable Festival Mode</button>
+  <button onclick="toggleFestival(false)">Disable Festival Mode</button>
+  <a href="/">Go Back</a>
+
+  <script>
+function toggleFestival(mode) {
+  fetch('/monitor/toggle_festival', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ festival_mode: mode })
+  })
+  .then(response => response.json())
+  .then(data => alert(data.message))
+  .catch(error => alert('Error: ' + error));
+}
+  </script>
+</body>
+</html>
