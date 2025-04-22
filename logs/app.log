@@ -15957,3 +15957,168 @@ On instance:
 2025-03-24 20:53:49,684 - INFO - Lane: Lane_4, Vehicle Count: 10, Green Time: 60s
 2025-03-24 20:53:49,684 - INFO - 127.0.0.1 - - [24/Mar/2025 20:53:49] "GET /traffic/ HTTP/1.1" 200 -
 2025-03-24 20:53:49,993 - INFO - 127.0.0.1 - - [24/Mar/2025 20:53:49] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-03-27 08:23:27,046 - INFO - Logging initialized
+2025-03-27 08:23:27,109 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.9.113.202:5000
+2025-03-27 08:23:27,109 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-27 08:23:27,125 - INFO -  * Restarting with stat
+2025-03-27 08:23:27,493 - INFO - Logging initialized
+2025-03-27 08:23:27,508 - WARNING -  * Debugger is active!
+2025-03-27 08:23:27,522 - INFO -  * Debugger PIN: 141-585-040
+2025-03-27 08:23:32,550 - INFO - 127.0.0.1 - - [27/Mar/2025 08:23:32] "GET / HTTP/1.1" 200 -
+2025-03-27 08:23:32,658 - INFO - 127.0.0.1 - - [27/Mar/2025 08:23:32] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-03-27 08:23:32,803 - INFO - 127.0.0.1 - - [27/Mar/2025 08:23:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-27 08:23:36,659 - INFO - Optimizing Traffic in Normal Mode
+2025-03-27 08:23:36,659 - INFO - Lane: Lane_1, Vehicle Count: 25, Green Time: 60s
+2025-03-27 08:23:36,659 - INFO - Lane: Lane_2, Vehicle Count: 75, Green Time: 75s
+2025-03-27 08:23:36,659 - INFO - Lane: Lane_3, Vehicle Count: 120, Green Time: 120s
+2025-03-27 08:23:36,660 - INFO - Lane: Lane_4, Vehicle Count: 10, Green Time: 60s
+2025-03-27 08:23:36,675 - INFO - 127.0.0.1 - - [27/Mar/2025 08:23:36] "GET /traffic/ HTTP/1.1" 200 -
+2025-03-27 08:23:36,719 - INFO - 127.0.0.1 - - [27/Mar/2025 08:23:36] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-03-27 08:23:40,658 - INFO - 127.0.0.1 - - [27/Mar/2025 08:23:40] "GET / HTTP/1.1" 200 -
+2025-03-27 08:23:40,970 - INFO - 127.0.0.1 - - [27/Mar/2025 08:23:40] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-03-27 08:23:42,279 - INFO - 127.0.0.1 - - [27/Mar/2025 08:23:42] "[32mGET /festival HTTP/1.1[0m" 308 -
+2025-03-27 08:23:42,287 - INFO - 127.0.0.1 - - [27/Mar/2025 08:23:42] "GET /festival/ HTTP/1.1" 200 -
+2025-03-27 08:23:46,142 - INFO - Optimizing Traffic in Normal Mode
+2025-03-27 08:23:46,142 - INFO - Lane: Lane_1, Vehicle Count: 25, Green Time: 60s
+2025-03-27 08:23:46,142 - INFO - Lane: Lane_2, Vehicle Count: 75, Green Time: 75s
+2025-03-27 08:23:46,142 - INFO - Lane: Lane_3, Vehicle Count: 120, Green Time: 120s
+2025-03-27 08:23:46,142 - INFO - Lane: Lane_4, Vehicle Count: 10, Green Time: 60s
+2025-03-27 08:23:46,147 - INFO - 127.0.0.1 - - [27/Mar/2025 08:23:46] "GET /traffic/ HTTP/1.1" 200 -
+2025-03-27 08:23:46,165 - INFO - 127.0.0.1 - - [27/Mar/2025 08:23:46] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-03-27 08:23:54,812 - INFO - 127.0.0.1 - - [27/Mar/2025 08:23:54] "GET / HTTP/1.1" 200 -
+2025-03-27 08:23:55,122 - INFO - 127.0.0.1 - - [27/Mar/2025 08:23:55] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-03-27 08:23:56,127 - INFO - 127.0.0.1 - - [27/Mar/2025 08:23:56] "GET /festival/ HTTP/1.1" 200 -
+2025-03-27 08:24:00,486 - INFO - Optimizing Traffic in Normal Mode
+2025-03-27 08:24:00,486 - INFO - Lane: Lane_1, Vehicle Count: 25, Green Time: 60s
+2025-03-27 08:24:00,486 - INFO - Lane: Lane_2, Vehicle Count: 75, Green Time: 75s
+2025-03-27 08:24:00,486 - INFO - Lane: Lane_3, Vehicle Count: 120, Green Time: 120s
+2025-03-27 08:24:00,486 - INFO - Lane: Lane_4, Vehicle Count: 10, Green Time: 60s
+2025-03-27 08:24:00,486 - INFO - 127.0.0.1 - - [27/Mar/2025 08:24:00] "GET /traffic/ HTTP/1.1" 200 -
+2025-03-27 08:24:00,507 - INFO - 127.0.0.1 - - [27/Mar/2025 08:24:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-03-27 08:24:06,742 - INFO - 127.0.0.1 - - [27/Mar/2025 08:24:06] "GET / HTTP/1.1" 200 -
+2025-03-27 08:24:06,854 - INFO - 127.0.0.1 - - [27/Mar/2025 08:24:06] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-03-27 08:24:08,480 - INFO - 127.0.0.1 - - [27/Mar/2025 08:24:08] "[33mGET /emergency HTTP/1.1[0m" 404 -
+2025-04-15 09:38:42,012 - INFO - Logging initialized
+2025-04-15 09:38:42,067 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.9.113.202:5000
+2025-04-15 09:38:42,067 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-15 09:38:42,067 - INFO -  * Restarting with stat
+2025-04-15 09:38:42,416 - INFO - Logging initialized
+2025-04-15 09:38:42,435 - WARNING -  * Debugger is active!
+2025-04-15 09:38:42,435 - INFO -  * Debugger PIN: 141-585-040
+2025-04-15 09:38:54,984 - INFO - 127.0.0.1 - - [15/Apr/2025 09:38:54] "GET / HTTP/1.1" 200 -
+2025-04-15 09:38:55,057 - INFO - 127.0.0.1 - - [15/Apr/2025 09:38:55] "GET /static/style.css HTTP/1.1" 200 -
+2025-04-15 09:38:55,219 - INFO - 127.0.0.1 - - [15/Apr/2025 09:38:55] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-15 09:39:13,784 - INFO - 127.0.0.1 - - [15/Apr/2025 09:39:13] "[32mGET /traffic HTTP/1.1[0m" 308 -
+2025-04-15 09:39:13,888 - INFO - Optimizing Traffic in Normal Mode
+2025-04-15 09:39:13,888 - INFO - Lane: Lane_1, Vehicle Count: 25, Green Time: 60s
+2025-04-15 09:39:13,888 - INFO - Lane: Lane_2, Vehicle Count: 75, Green Time: 75s
+2025-04-15 09:39:13,888 - INFO - Lane: Lane_3, Vehicle Count: 120, Green Time: 120s
+2025-04-15 09:39:13,888 - INFO - Lane: Lane_4, Vehicle Count: 10, Green Time: 60s
+2025-04-15 09:39:13,914 - INFO - 127.0.0.1 - - [15/Apr/2025 09:39:13] "GET /traffic/ HTTP/1.1" 200 -
+2025-04-15 09:39:14,034 - INFO - 127.0.0.1 - - [15/Apr/2025 09:39:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-15 09:39:27,512 - INFO - 127.0.0.1 - - [15/Apr/2025 09:39:27] "GET / HTTP/1.1" 200 -
+2025-04-15 09:39:27,829 - INFO - 127.0.0.1 - - [15/Apr/2025 09:39:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-15 09:39:28,975 - INFO - 127.0.0.1 - - [15/Apr/2025 09:39:28] "[32mGET /festival HTTP/1.1[0m" 308 -
+2025-04-15 09:39:29,063 - INFO - 127.0.0.1 - - [15/Apr/2025 09:39:29] "GET /festival/ HTTP/1.1" 200 -
+2025-04-15 09:39:31,687 - INFO - Optimizing Traffic in Normal Mode
+2025-04-15 09:39:31,687 - INFO - Lane: Lane_1, Vehicle Count: 25, Green Time: 60s
+2025-04-15 09:39:31,687 - INFO - Lane: Lane_2, Vehicle Count: 75, Green Time: 75s
+2025-04-15 09:39:31,687 - INFO - Lane: Lane_3, Vehicle Count: 120, Green Time: 120s
+2025-04-15 09:39:31,687 - INFO - Lane: Lane_4, Vehicle Count: 10, Green Time: 60s
+2025-04-15 09:39:31,687 - INFO - 127.0.0.1 - - [15/Apr/2025 09:39:31] "GET /traffic/ HTTP/1.1" 200 -
+2025-04-15 09:39:31,994 - INFO - 127.0.0.1 - - [15/Apr/2025 09:39:31] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-15 09:39:34,757 - INFO - 127.0.0.1 - - [15/Apr/2025 09:39:34] "GET / HTTP/1.1" 200 -
+2025-04-15 09:39:34,841 - INFO - 127.0.0.1 - - [15/Apr/2025 09:39:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-15 09:39:35,488 - INFO - 127.0.0.1 - - [15/Apr/2025 09:39:35] "[33mGET /emergency HTTP/1.1[0m" 404 -
+2025-04-22 19:01:22,978 - INFO - Logging initialized
+2025-04-22 19:01:23,070 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.31.98:5000
+2025-04-22 19:01:23,070 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-22 19:01:23,077 - INFO -  * Restarting with stat
+2025-04-22 19:01:23,490 - INFO - Logging initialized
+2025-04-22 19:01:23,507 - WARNING -  * Debugger is active!
+2025-04-22 19:01:23,520 - INFO -  * Debugger PIN: 141-585-040
+2025-04-22 19:01:56,757 - INFO - 127.0.0.1 - - [22/Apr/2025 19:01:56] "GET / HTTP/1.1" 200 -
+2025-04-22 19:01:56,834 - INFO - 127.0.0.1 - - [22/Apr/2025 19:01:56] "GET /static/style.css HTTP/1.1" 200 -
+2025-04-22 19:01:56,858 - INFO - 127.0.0.1 - - [22/Apr/2025 19:01:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-22 19:02:09,207 - INFO - 127.0.0.1 - - [22/Apr/2025 19:02:09] "[32mGET /traffic HTTP/1.1[0m" 308 -
+2025-04-22 19:02:09,221 - INFO - Optimizing Traffic in Normal Mode
+2025-04-22 19:02:09,221 - INFO - Lane: Lane_1, Vehicle Count: 25, Green Time: 60s
+2025-04-22 19:02:09,221 - INFO - Lane: Lane_2, Vehicle Count: 75, Green Time: 75s
+2025-04-22 19:02:09,221 - INFO - Lane: Lane_3, Vehicle Count: 120, Green Time: 120s
+2025-04-22 19:02:09,221 - INFO - Lane: Lane_4, Vehicle Count: 10, Green Time: 60s
+2025-04-22 19:02:09,238 - INFO - 127.0.0.1 - - [22/Apr/2025 19:02:09] "GET /traffic/ HTTP/1.1" 200 -
+2025-04-22 19:02:09,261 - INFO - 127.0.0.1 - - [22/Apr/2025 19:02:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-22 19:23:42,837 - INFO -  * Detected change in 'd:\\SEPM\\app.py', reloading
+2025-04-22 19:23:42,899 - INFO -  * Restarting with stat
+2025-04-22 19:23:43,415 - INFO - Logging initialized
+2025-04-22 19:23:43,436 - WARNING -  * Debugger is active!
+2025-04-22 19:23:43,439 - INFO -  * Debugger PIN: 141-585-040
+2025-04-22 19:26:09,382 - INFO - Logging initialized
+2025-04-22 19:26:09,424 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.31.98:5000
+2025-04-22 19:26:09,424 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-22 19:26:09,424 - INFO -  * Restarting with stat
+2025-04-22 19:26:09,814 - INFO - Logging initialized
+2025-04-22 19:26:09,839 - WARNING -  * Debugger is active!
+2025-04-22 19:26:09,842 - INFO -  * Debugger PIN: 141-585-040
+2025-04-22 19:26:18,786 - INFO - 127.0.0.1 - - [22/Apr/2025 19:26:18] "GET / HTTP/1.1" 200 -
+2025-04-22 19:26:18,843 - INFO - 127.0.0.1 - - [22/Apr/2025 19:26:18] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-22 19:26:23,913 - INFO - 127.0.0.1 - - [22/Apr/2025 19:26:23] "GET /junction HTTP/1.1" 200 -
+2025-04-22 19:26:23,945 - INFO - 127.0.0.1 - - [22/Apr/2025 19:26:23] "GET /static/junction.css HTTP/1.1" 200 -
+2025-04-22 19:26:23,973 - INFO - 127.0.0.1 - - [22/Apr/2025 19:26:23] "GET /static/junction.js HTTP/1.1" 200 -
+2025-04-22 19:28:44,383 - INFO - 127.0.0.1 - - [22/Apr/2025 19:28:44] "GET /junction HTTP/1.1" 200 -
+2025-04-22 19:28:44,412 - INFO - 127.0.0.1 - - [22/Apr/2025 19:28:44] "[36mGET /static/junction.css HTTP/1.1[0m" 304 -
+2025-04-22 19:28:44,464 - INFO - 127.0.0.1 - - [22/Apr/2025 19:28:44] "GET /static/junction.js HTTP/1.1" 200 -
+2025-04-22 19:34:55,337 - INFO - Logging initialized
+2025-04-22 19:34:55,372 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.31.98:5000
+2025-04-22 19:34:55,372 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-22 19:34:55,374 - INFO -  * Restarting with stat
+2025-04-22 19:34:55,725 - INFO - Logging initialized
+2025-04-22 19:34:55,743 - WARNING -  * Debugger is active!
+2025-04-22 19:34:55,743 - INFO -  * Debugger PIN: 141-585-040
+2025-04-22 19:34:58,626 - INFO - 127.0.0.1 - - [22/Apr/2025 19:34:58] "GET / HTTP/1.1" 200 -
+2025-04-22 19:34:58,676 - INFO - 127.0.0.1 - - [22/Apr/2025 19:34:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-22 19:35:05,814 - INFO - 127.0.0.1 - - [22/Apr/2025 19:35:05] "GET /junction HTTP/1.1" 200 -
+2025-04-22 19:35:05,846 - INFO - 127.0.0.1 - - [22/Apr/2025 19:35:05] "[36mGET /static/junction.css HTTP/1.1[0m" 304 -
+2025-04-22 19:35:05,902 - INFO - 127.0.0.1 - - [22/Apr/2025 19:35:05] "GET /static/junction.js HTTP/1.1" 200 -
+2025-04-22 19:38:04,310 - INFO - 127.0.0.1 - - [22/Apr/2025 19:38:04] "GET /junction HTTP/1.1" 200 -
+2025-04-22 19:38:04,340 - INFO - 127.0.0.1 - - [22/Apr/2025 19:38:04] "[36mGET /static/junction.css HTTP/1.1[0m" 304 -
+2025-04-22 19:38:04,361 - INFO - 127.0.0.1 - - [22/Apr/2025 19:38:04] "GET /static/junction.js HTTP/1.1" 200 -
+2025-04-22 19:41:51,522 - INFO - 127.0.0.1 - - [22/Apr/2025 19:41:51] "GET /junction HTTP/1.1" 200 -
+2025-04-22 19:41:51,549 - INFO - 127.0.0.1 - - [22/Apr/2025 19:41:51] "[36mGET /static/junction.css HTTP/1.1[0m" 304 -
+2025-04-22 19:41:51,576 - INFO - 127.0.0.1 - - [22/Apr/2025 19:41:51] "GET /static/junction.js HTTP/1.1" 200 -
+2025-04-22 19:42:03,057 - INFO - 127.0.0.1 - - [22/Apr/2025 19:42:03] "GET /junction HTTP/1.1" 200 -
+2025-04-22 19:42:03,076 - INFO - 127.0.0.1 - - [22/Apr/2025 19:42:03] "[36mGET /static/junction.css HTTP/1.1[0m" 304 -
+2025-04-22 19:42:03,116 - INFO - 127.0.0.1 - - [22/Apr/2025 19:42:03] "GET /static/junction.js HTTP/1.1" 200 -
+2025-04-22 19:42:30,870 - INFO - 127.0.0.1 - - [22/Apr/2025 19:42:30] "GET /junction HTTP/1.1" 200 -
+2025-04-22 19:42:30,883 - INFO - 127.0.0.1 - - [22/Apr/2025 19:42:30] "[36mGET /static/junction.css HTTP/1.1[0m" 304 -
+2025-04-22 19:42:30,886 - INFO - 127.0.0.1 - - [22/Apr/2025 19:42:30] "GET /static/junction.js HTTP/1.1" 200 -
+2025-04-22 19:46:58,734 - INFO - 127.0.0.1 - - [22/Apr/2025 19:46:58] "GET /junction HTTP/1.1" 200 -
+2025-04-22 19:46:58,751 - INFO - 127.0.0.1 - - [22/Apr/2025 19:46:58] "[36mGET /static/junction.css HTTP/1.1[0m" 304 -
+2025-04-22 19:46:58,800 - INFO - 127.0.0.1 - - [22/Apr/2025 19:46:58] "GET /static/junction.js HTTP/1.1" 200 -
+2025-04-22 19:47:18,899 - INFO - 127.0.0.1 - - [22/Apr/2025 19:47:18] "GET /junction HTTP/1.1" 200 -
+2025-04-22 19:47:18,916 - INFO - 127.0.0.1 - - [22/Apr/2025 19:47:18] "[36mGET /static/junction.css HTTP/1.1[0m" 304 -
+2025-04-22 19:47:18,917 - INFO - 127.0.0.1 - - [22/Apr/2025 19:47:18] "GET /static/junction.js HTTP/1.1" 200 -
+2025-04-22 19:49:20,076 - INFO - 127.0.0.1 - - [22/Apr/2025 19:49:20] "GET /junction HTTP/1.1" 200 -
+2025-04-22 19:49:20,092 - INFO - 127.0.0.1 - - [22/Apr/2025 19:49:20] "[36mGET /static/junction.css HTTP/1.1[0m" 304 -
+2025-04-22 19:49:20,094 - INFO - 127.0.0.1 - - [22/Apr/2025 19:49:20] "GET /static/junction.js HTTP/1.1" 200 -
+2025-04-22 19:49:43,117 - INFO - 127.0.0.1 - - [22/Apr/2025 19:49:43] "GET /junction HTTP/1.1" 200 -
+2025-04-22 19:49:43,137 - INFO - 127.0.0.1 - - [22/Apr/2025 19:49:43] "[36mGET /static/junction.css HTTP/1.1[0m" 304 -
+2025-04-22 19:49:43,139 - INFO - 127.0.0.1 - - [22/Apr/2025 19:49:43] "GET /static/junction.js HTTP/1.1" 200 -
+2025-04-22 19:55:52,077 - INFO - 127.0.0.1 - - [22/Apr/2025 19:55:52] "GET /junction HTTP/1.1" 200 -
+2025-04-22 19:55:52,090 - INFO - 127.0.0.1 - - [22/Apr/2025 19:55:52] "[36mGET /static/junction.css HTTP/1.1[0m" 304 -
+2025-04-22 19:55:52,093 - INFO - 127.0.0.1 - - [22/Apr/2025 19:55:52] "GET /static/junction.js HTTP/1.1" 200 -

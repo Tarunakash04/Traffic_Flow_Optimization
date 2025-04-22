@@ -25,5 +25,9 @@ setup_logging()
 def home():
     return render_template('index.html')
 
+@app.route('/junction')
+def junction_ui():
+    return render_template('junction.html')
+
 if __name__ == '__main__':
     app.run(host=config.HOST, port=config.PORT, debug=config.DEBUG)
