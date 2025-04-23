@@ -8,7 +8,7 @@ This project implements a **traffic flow optimizer** using **FASTag RFID detecti
 - **Vehicle Detection**: Uses FASTag data to detect vehicles in real-time.  
 - **Traffic Signal Optimization**: Adjusts signal timings based on the number of vehicles per lane.  
 - **Data Transmission**: Uses HTTP (POST requests) to send vehicle data.  
-- **Lane-Specific Processing**: Computes green time dynamically for each lane.  
+- **Lane-Specific Processing**: Computes green time dynamically for each lane. . 
 
 ---
 
