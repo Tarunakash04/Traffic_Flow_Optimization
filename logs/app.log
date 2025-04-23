@@ -16122,3 +16122,94 @@ On instance:
 2025-04-22 19:55:52,077 - INFO - 127.0.0.1 - - [22/Apr/2025 19:55:52] "GET /junction HTTP/1.1" 200 -
 2025-04-22 19:55:52,090 - INFO - 127.0.0.1 - - [22/Apr/2025 19:55:52] "[36mGET /static/junction.css HTTP/1.1[0m" 304 -
 2025-04-22 19:55:52,093 - INFO - 127.0.0.1 - - [22/Apr/2025 19:55:52] "GET /static/junction.js HTTP/1.1" 200 -
+2025-04-23 09:24:58,317 - INFO - Logging initialized
+2025-04-23 09:24:58,332 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.9.173.49:5000
+2025-04-23 09:24:58,332 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-23 09:24:58,332 - INFO -  * Restarting with stat
+2025-04-23 09:24:58,613 - INFO - Logging initialized
+2025-04-23 09:24:58,626 - WARNING -  * Debugger is active!
+2025-04-23 09:24:58,628 - INFO -  * Debugger PIN: 141-585-040
+2025-04-23 09:25:03,383 - INFO - 127.0.0.1 - - [23/Apr/2025 09:25:03] "GET /junction HTTP/1.1" 200 -
+2025-04-23 09:25:03,446 - INFO - 127.0.0.1 - - [23/Apr/2025 09:25:03] "GET /static/junction.css HTTP/1.1" 200 -
+2025-04-23 09:25:03,460 - INFO - 127.0.0.1 - - [23/Apr/2025 09:25:03] "GET /static/junction.js HTTP/1.1" 200 -
+2025-04-23 09:25:49,427 - INFO -  * Detected change in 'c:\\Users\\Tarun Akash\\Desktop\\Traffic\\Traffic_Flow_Optimization\\app.py', reloading
+2025-04-23 09:25:49,456 - INFO -  * Restarting with stat
+2025-04-23 09:26:31,489 - INFO - Logging initialized
+2025-04-23 09:26:31,504 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.9.173.49:5000
+2025-04-23 09:26:31,504 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-23 09:26:31,504 - INFO -  * Restarting with stat
+2025-04-23 09:26:31,740 - INFO - Logging initialized
+2025-04-23 09:26:31,755 - WARNING -  * Debugger is active!
+2025-04-23 09:26:31,755 - INFO -  * Debugger PIN: 141-585-040
+2025-04-23 09:26:34,278 - INFO - 127.0.0.1 - - [23/Apr/2025 09:26:34] "GET /junction HTTP/1.1" 200 -
+2025-04-23 09:26:34,325 - INFO - 127.0.0.1 - - [23/Apr/2025 09:26:34] "[36mGET /static/junction.css HTTP/1.1[0m" 304 -
+2025-04-23 09:26:34,326 - INFO - 127.0.0.1 - - [23/Apr/2025 09:26:34] "[36mGET /static/junction.js HTTP/1.1[0m" 304 -
+2025-04-23 09:26:34,662 - INFO - 127.0.0.1 - - [23/Apr/2025 09:26:34] "GET /junction HTTP/1.1" 200 -
+2025-04-23 09:26:34,674 - INFO - 127.0.0.1 - - [23/Apr/2025 09:26:34] "[36mGET /static/junction.css HTTP/1.1[0m" 304 -
+2025-04-23 09:26:34,674 - INFO - 127.0.0.1 - - [23/Apr/2025 09:26:34] "[36mGET /static/junction.js HTTP/1.1[0m" 304 -
+2025-04-23 09:28:03,203 - INFO -  * Detected change in 'c:\\Users\\Tarun Akash\\Desktop\\Traffic\\Traffic_Flow_Optimization\\app.py', reloading
+2025-04-23 09:28:03,231 - INFO -  * Restarting with stat
+2025-04-23 09:28:03,481 - INFO - Logging initialized
+2025-04-23 09:28:03,481 - WARNING -  * Debugger is active!
+2025-04-23 09:28:03,481 - INFO -  * Debugger PIN: 141-585-040
+2025-04-23 09:28:24,150 - INFO - 127.0.0.1 - - [23/Apr/2025 09:28:24] "GET /junction HTTP/1.1" 200 -
+2025-04-23 09:28:24,194 - INFO - 127.0.0.1 - - [23/Apr/2025 09:28:24] "[36mGET /static/junction.css HTTP/1.1[0m" 304 -
+2025-04-23 09:28:24,236 - INFO - 127.0.0.1 - - [23/Apr/2025 09:28:24] "GET /static/junction.js HTTP/1.1" 200 -
+2025-04-23 09:28:25,842 - INFO - 127.0.0.1 - - [23/Apr/2025 09:28:25] "POST /toggle_festival HTTP/1.1" 200 -
+2025-04-23 09:28:32,133 - INFO - 127.0.0.1 - - [23/Apr/2025 09:28:32] "POST /set_emergency_lane HTTP/1.1" 200 -
+2025-04-23 09:29:18,071 - INFO - 127.0.0.1 - - [23/Apr/2025 09:29:18] "GET /junction HTTP/1.1" 200 -
+2025-04-23 09:29:18,082 - INFO - 127.0.0.1 - - [23/Apr/2025 09:29:18] "[36mGET /static/junction.css HTTP/1.1[0m" 304 -
+2025-04-23 09:29:18,136 - INFO - 127.0.0.1 - - [23/Apr/2025 09:29:18] "GET /static/junction.js HTTP/1.1" 200 -
+2025-04-23 09:30:22,794 - INFO - 127.0.0.1 - - [23/Apr/2025 09:30:22] "GET /junction HTTP/1.1" 200 -
+2025-04-23 09:30:22,810 - INFO - 127.0.0.1 - - [23/Apr/2025 09:30:22] "[36mGET /static/junction.css HTTP/1.1[0m" 304 -
+2025-04-23 09:30:22,860 - INFO - 127.0.0.1 - - [23/Apr/2025 09:30:22] "GET /static/junction.js HTTP/1.1" 200 -
+2025-04-23 09:31:11,060 - INFO - 127.0.0.1 - - [23/Apr/2025 09:31:11] "GET /junction HTTP/1.1" 200 -
+2025-04-23 09:31:11,067 - INFO - 127.0.0.1 - - [23/Apr/2025 09:31:11] "[36mGET /static/junction.css HTTP/1.1[0m" 304 -
+2025-04-23 09:31:11,111 - INFO - 127.0.0.1 - - [23/Apr/2025 09:31:11] "GET /static/junction.js HTTP/1.1" 200 -
+2025-04-23 09:31:37,875 - INFO - 127.0.0.1 - - [23/Apr/2025 09:31:37] "GET /junction HTTP/1.1" 200 -
+2025-04-23 09:31:37,896 - INFO - 127.0.0.1 - - [23/Apr/2025 09:31:37] "[36mGET /static/junction.css HTTP/1.1[0m" 304 -
+2025-04-23 09:31:37,910 - INFO - 127.0.0.1 - - [23/Apr/2025 09:31:37] "GET /static/junction.js HTTP/1.1" 200 -
+2025-04-23 09:31:41,899 - INFO - 127.0.0.1 - - [23/Apr/2025 09:31:41] "GET /junction HTTP/1.1" 200 -
+2025-04-23 09:31:41,913 - INFO - 127.0.0.1 - - [23/Apr/2025 09:31:41] "[36mGET /static/junction.css HTTP/1.1[0m" 304 -
+2025-04-23 09:31:41,915 - INFO - 127.0.0.1 - - [23/Apr/2025 09:31:41] "[36mGET /static/junction.js HTTP/1.1[0m" 304 -
+2025-04-23 09:32:01,192 - INFO - 127.0.0.1 - - [23/Apr/2025 09:32:01] "GET /junction HTTP/1.1" 200 -
+2025-04-23 09:32:01,212 - INFO - 127.0.0.1 - - [23/Apr/2025 09:32:01] "[36mGET /static/junction.css HTTP/1.1[0m" 304 -
+2025-04-23 09:32:01,212 - INFO - 127.0.0.1 - - [23/Apr/2025 09:32:01] "GET /static/junction.js HTTP/1.1" 200 -
+2025-04-23 09:32:18,395 - INFO - 127.0.0.1 - - [23/Apr/2025 09:32:18] "GET /junction HTTP/1.1" 200 -
+2025-04-23 09:32:18,406 - INFO - 127.0.0.1 - - [23/Apr/2025 09:32:18] "[36mGET /static/junction.css HTTP/1.1[0m" 304 -
+2025-04-23 09:32:18,406 - INFO - 127.0.0.1 - - [23/Apr/2025 09:32:18] "GET /static/junction.js HTTP/1.1" 200 -
+2025-04-23 09:32:28,543 - INFO - 127.0.0.1 - - [23/Apr/2025 09:32:28] "GET /junction HTTP/1.1" 200 -
+2025-04-23 09:32:28,554 - INFO - 127.0.0.1 - - [23/Apr/2025 09:32:28] "[36mGET /static/junction.css HTTP/1.1[0m" 304 -
+2025-04-23 09:32:28,599 - INFO - 127.0.0.1 - - [23/Apr/2025 09:32:28] "GET /static/junction.js HTTP/1.1" 200 -
+2025-04-23 09:32:41,820 - INFO - 127.0.0.1 - - [23/Apr/2025 09:32:41] "GET /junction HTTP/1.1" 200 -
+2025-04-23 09:32:41,824 - INFO - 127.0.0.1 - - [23/Apr/2025 09:32:41] "[36mGET /static/junction.css HTTP/1.1[0m" 304 -
+2025-04-23 09:32:41,838 - INFO - 127.0.0.1 - - [23/Apr/2025 09:32:41] "GET /static/junction.js HTTP/1.1" 200 -
+2025-04-23 09:33:50,469 - INFO - 127.0.0.1 - - [23/Apr/2025 09:33:50] "GET /junction HTTP/1.1" 200 -
+2025-04-23 09:33:50,487 - INFO - 127.0.0.1 - - [23/Apr/2025 09:33:50] "[36mGET /static/junction.css HTTP/1.1[0m" 304 -
+2025-04-23 09:33:50,537 - INFO - 127.0.0.1 - - [23/Apr/2025 09:33:50] "GET /static/junction.js HTTP/1.1" 200 -
+2025-04-23 09:35:01,046 - INFO - 127.0.0.1 - - [23/Apr/2025 09:35:01] "GET /junction HTTP/1.1" 200 -
+2025-04-23 09:35:01,062 - INFO - 127.0.0.1 - - [23/Apr/2025 09:35:01] "[36mGET /static/junction.css HTTP/1.1[0m" 304 -
+2025-04-23 09:35:01,111 - INFO - 127.0.0.1 - - [23/Apr/2025 09:35:01] "GET /static/junction.js HTTP/1.1" 200 -
+2025-04-23 09:35:27,612 - INFO - 127.0.0.1 - - [23/Apr/2025 09:35:27] "GET /junction HTTP/1.1" 200 -
+2025-04-23 09:35:27,617 - INFO - 127.0.0.1 - - [23/Apr/2025 09:35:27] "[36mGET /static/junction.css HTTP/1.1[0m" 304 -
+2025-04-23 09:35:27,666 - INFO - 127.0.0.1 - - [23/Apr/2025 09:35:27] "GET /static/junction.js HTTP/1.1" 200 -
+2025-04-23 09:35:48,830 - INFO - 127.0.0.1 - - [23/Apr/2025 09:35:48] "POST /set_emergency_lane HTTP/1.1" 200 -
+2025-04-23 09:36:23,858 - INFO - 127.0.0.1 - - [23/Apr/2025 09:36:23] "GET /junction HTTP/1.1" 200 -
+2025-04-23 09:36:23,869 - INFO - 127.0.0.1 - - [23/Apr/2025 09:36:23] "[36mGET /static/junction.css HTTP/1.1[0m" 304 -
+2025-04-23 09:36:23,913 - INFO - 127.0.0.1 - - [23/Apr/2025 09:36:23] "GET /static/junction.js HTTP/1.1" 200 -
+2025-04-23 09:36:33,246 - INFO - 127.0.0.1 - - [23/Apr/2025 09:36:33] "POST /set_emergency_lane HTTP/1.1" 200 -
+2025-04-23 09:37:49,521 - INFO - 127.0.0.1 - - [23/Apr/2025 09:37:49] "GET /junction HTTP/1.1" 200 -
+2025-04-23 09:37:49,522 - INFO - 127.0.0.1 - - [23/Apr/2025 09:37:49] "[36mGET /static/junction.css HTTP/1.1[0m" 304 -
+2025-04-23 09:37:49,573 - INFO - 127.0.0.1 - - [23/Apr/2025 09:37:49] "GET /static/junction.js HTTP/1.1" 200 -
+2025-04-23 09:38:02,444 - INFO - 127.0.0.1 - - [23/Apr/2025 09:38:02] "POST /set_emergency_lane HTTP/1.1" 200 -
+2025-04-23 09:38:22,453 - INFO - 127.0.0.1 - - [23/Apr/2025 09:38:22] "GET /junction HTTP/1.1" 200 -
+2025-04-23 09:38:22,476 - INFO - 127.0.0.1 - - [23/Apr/2025 09:38:22] "[36mGET /static/junction.css HTTP/1.1[0m" 304 -
+2025-04-23 09:38:22,476 - INFO - 127.0.0.1 - - [23/Apr/2025 09:38:22] "[36mGET /static/junction.js HTTP/1.1[0m" 304 -
+2025-04-23 09:38:25,428 - INFO - 127.0.0.1 - - [23/Apr/2025 09:38:25] "POST /toggle_festival HTTP/1.1" 200 -
+2025-04-23 09:38:35,840 - INFO - 127.0.0.1 - - [23/Apr/2025 09:38:35] "POST /set_emergency_lane HTTP/1.1" 200 -

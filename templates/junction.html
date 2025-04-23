@@ -1,43 +1,67 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Smart Junction View</title>
-  <link rel="stylesheet" href="/static/junction.css">
+    <meta charset="UTF-8">
+    <title>Smart Junction View</title>
+    <link rel="stylesheet" href="/static/junction.css">
+    <style>
+        body { display: flex; flex-direction: column; align-items: center; }
+        .junction { /* Existing styles */ }
+        button { margin: 10px; padding: 8px 15px; cursor: pointer; }
+    </style>
 </head>
 <body>
-  <h1 style="text-align:center;">🚦 Live Traffic Junction View</h1>
+    <h1 style="text-align:center;">🚦 Live Traffic Junction View</h1>
 
-  <div class="junction">
-    <div class="lane lane1">
-      <div class="signal" id="signal1"></div>
-      <div class="car-count" id="count1">Lane 1: 🚗 x 45</div>
-      <div class="green-timer" id="timer1">Green in: 30s</div>
-      <div class="cars" id="cars1"></div>
+    <div class="junction">
+        <div class="lane lane1">
+            <div class="signal" id="signal1"></div>
+            <div class="car-count" id="count1">Lane 1: 🚗 x 45</div>
+            <div class="green-timer" id="timer1">Green in: 30s</div>
+            <div class="cars" id="cars1"></div>
+        </div>
+
+        <div class="lane lane2">
+            <div class="signal" id="signal2"></div>
+            <div class="car-count" id="count2">Lane 2: 🚗 x 25</div>
+            <div class="green-timer" id="timer2">Green in: 60s</div>
+            <div class="cars" id="cars2"></div>
+        </div>
+
+        <div class="lane lane3">
+            <div class="signal" id="signal3"></div>
+            <div class="car-count" id="count3">Lane 3: 🚗 x 12</div>
+            <div class="green-timer" id="timer3">Green in: 0s</div>
+            <div class="cars" id="cars3"></div>
+        </div>
+
+        <div class="lane lane4">
+            <div class="signal" id="signal4"></div>
+            <div class="car-count" id="count4">Lane 4: 🚗 x 35</div>
+            <div class="green-timer" id="timer4">Green in: 45s</div>
+            <div class="cars" id="cars4"></div>
+        </div>
     </div>
 
-    <div class="lane lane2">
-      <div class="signal" id="signal2"></div>
-      <div class="car-count" id="count2">Lane 2: 🚗 x 25</div>
-      <div class="green-timer" id="timer2">Green in: 60s</div>
-      <div class="cars" id="cars2"></div>
+    <div class="controls" style="display: flex; gap: 10px; margin-top: 20px;">
+        <button id="festivalBtn">Toggle Festival</button>
+        <button id="emergencyBtn">Trigger Emergency</button>
     </div>
 
-    <div class="lane lane3">
-      <div class="signal" id="signal3"></div>
-      <div class="car-count" id="count3">Lane 3: 🚗 x 12</div>
-      <div class="green-timer" id="timer3">Green in: 0s</div>
-      <div class="cars" id="cars3"></div>
-    </div>
+    <script src="/static/junction.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const festivalBtn = document.getElementById('festivalBtn');
+            const emergencyBtn = document.getElementById('emergencyBtn');
 
-    <div class="lane lane4">
-      <div class="signal" id="signal4"></div>
-      <div class="car-count" id="count4">Lane 4: 🚗 x 35</div>
-      <div class="green-timer" id="timer4">Green in: 45s</div>
-      <div class="cars" id="cars4"></div>
-    </div>
-  </div>
+            if (festivalBtn) {
+                festivalBtn.addEventListener('click', toggleFestival);
+            }
 
-  <script src="/static/junction.js"></script>
+            if (emergencyBtn) {
+                emergencyBtn.addEventListener('click', triggerEmergency);
+            }
+        });
+    </script>
 </body>
 </html>
